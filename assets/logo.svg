@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" role="img" aria-labelledby="t d">
+  <title id="t">RD Homemaster</title><desc id="d">RD Homemaster Hausmeisterservice</desc>
+  <path d="M30 63 L105 16 L175 63" fill="none" stroke="#1778b8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M102 18 L164 55" fill="none" stroke="#f28c28" stroke-width="6" stroke-linecap="round"/>
+  <path d="M149 32 v33" stroke="#0c2235" stroke-width="10" stroke-linecap="square"/>
+  <text x="205" y="74" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900" fill="#0c2235" letter-spacing="-2">RD HOMEMASTER</text>
+  <text x="208" y="113" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#5f6973" letter-spacing="7">HAUSMEISTERSERVICE</text>
+</svg>
