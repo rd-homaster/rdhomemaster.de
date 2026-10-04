@@ -1,0 +1,14 @@
+RD HOMEMASTER PREMIUM V8
+
+Diese Version behält das Premium-V7-Layout bei.
+Korrekturen:
+- Copyright auf 2025 gesetzt
+- Rasenmähen hat jetzt ein echtes Rasenmäher-Bild
+- Heckenschnitt hat eigenes Bild
+- Gartenarbeiten hat eigenes Bild
+- alle Leistungsbilder sind im assets-Ordner enthalten
+- Objektbetreuung hat eigenes Bild
+
+Für GitHub:
+1. Hauptordner-Dateien hochladen/ersetzen: index.html, style.css, script.js, impressum.html, datenschutz.html, CNAME, robots.txt, sitemap.xml
+2. Danach den kompletten Inhalt des neuen assets-Ordners in den GitHub-assets-Ordner hochladen und vorhandene Dateien ersetzen.
