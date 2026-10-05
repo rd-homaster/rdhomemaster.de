@@ -1,7 +1,19 @@
-# RD Homemaster Website
+RD Homemaster – komprimierte Website-Version
+===========================================
 
-Statische Website für RD Homemaster – Hausmeisterservice im Landkreis Esslingen.
+Inhalt
+- index.html
+- style.css
+- script.js
+- impressum.html
+- datenschutz.html
+- agb.html
+- 404.html
+- robots.txt
+- sitemap.xml
+- assets/...
 
-## Vor Veröffentlichung
-- ladungsfähige Geschäftsanschrift in `impressum.html` und `datenschutz.html` ergänzen
-- Datenschutzhinweise nach finalem Hosting prüfen
+Hinweise
+- Diese Version ist bewusst kompakter aufgebaut und verwendet deutlich weniger Bilder.
+- Die AGB sind als allgemeiner Entwurf enthalten und sollten vor dauerhafter Nutzung idealerweise rechtlich geprüft werden.
+- Wenn zusätzliche Dienste eingebunden werden (z. B. WhatsApp, Kontaktformular, Tracking, Maps), müssen Datenschutz und ggf. weitere Rechtstexte angepasst werden.
