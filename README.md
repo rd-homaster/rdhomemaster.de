@@ -1,19 +1,13 @@
-RD Homemaster – komprimierte Website-Version
-===========================================
+RD Homemaster – alte Gestaltung / kompakter Inhalt
+=================================================
 
-Inhalt
-- index.html
-- style.css
-- script.js
-- impressum.html
-- datenschutz.html
-- agb.html
-- 404.html
-- robots.txt
-- sitemap.xml
-- assets/...
+Diese Version orientiert sich bewusst an der bisherigen Website:
+- gleicher heller, moderner Aufbau
+- ähnliche Navigation und Abschnittsfolge
+- gleiche Leistungsinhalte
+- deutlich weniger große Bilder
+- kleine Geräte-/Arbeitsmittel-Symbole statt wiederholter Stockfotos
+- neues RD-Homemaster-Logo integriert
+- Impressum, Datenschutz und AGB enthalten
 
-Hinweise
-- Diese Version ist bewusst kompakter aufgebaut und verwendet deutlich weniger Bilder.
-- Die AGB sind als allgemeiner Entwurf enthalten und sollten vor dauerhafter Nutzung idealerweise rechtlich geprüft werden.
-- Wenn zusätzliche Dienste eingebunden werden (z. B. WhatsApp, Kontaktformular, Tracking, Maps), müssen Datenschutz und ggf. weitere Rechtstexte angepasst werden.
+Dateien vollständig auf den Webspace hochladen und vorhandene Dateien ersetzen.
